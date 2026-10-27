@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wridm//NONSGML Livestream Event//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dli-closures-20260922@wridm.com
+SEQUENCE:1
+DTSTAMP:20260921T131900Z
+SUMMARY:DLI Closures: What Students Need to Do Right Now
+DTSTART:20260922T150000Z
+DTEND:20260922T160000Z
+LOCATION:https://meet.google.com/ure-azpz-sbv
+DESCRIPTION:Wridm is proud to sponsor an urgent\, high-impact livestream with Donnaa Fredrick (RCIC\, Mako Immigration & former corporate immigration consultant at ILAC) to support international students impacted by recent institution closures.\n\nBring your questions for our live Q&A session.\n\nJoin Meet: https://meet.google.com/ure-azpz-sbv
+URL:https://meet.google.com/ure-azpz-sbv
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
